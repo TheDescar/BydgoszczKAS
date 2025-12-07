@@ -1,0 +1,2 @@
+# BydgoszczKAS
+HackNation2025
