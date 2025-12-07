@@ -1,4 +1,4 @@
-# BydgoszczKAS
+# cartesian-chart-library
 
 A new Flutter project.
 
